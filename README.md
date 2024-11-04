@@ -32,3 +32,5 @@ cargo doc --open
 
 ## rb04
 
+- `Drop` (ref:https://doc.rust-lang.org/stable/std/ops/trait.Drop.html#tymethod.drop) is called when an object go out of scope
+- `Copy` Trait desides whether a type is deep copied (on assign) or shallow copied. Conflict with `Drop` (compile time check)
