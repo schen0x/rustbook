@@ -1,0 +1,6 @@
+[package]
+name = "rb03-variables"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

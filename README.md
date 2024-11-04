@@ -26,3 +26,9 @@ cargo doc --open
 
 - `match` @ rb06 rb18
 
+## rb03 variables and control flow
+
+- Q: variable shadowing when decompiled
+
+## rb04
+
